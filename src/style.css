@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  color: rgb(51, 188, 226);
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(79, 1, 1, 0.931);
+  padding: 16px;
+  display: flex;
+  justify-content: space-around;
+  background-color: #f1f1f1;
+  height: 10%;
+}
+.blank {
+  background-color: #fff;
+}
