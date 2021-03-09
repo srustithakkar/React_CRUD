@@ -1,3 +1,25 @@
+This Project is to Make use Of CRUD operation in React and understanding the concepts like Map, Storing Data, Routing and learning and implementing CRUD in React.
+
+There are 4 pages in the Web App.
+
+Home Page contain 2 Buttons: Create and View
+![SharedScreenshot](https://user-images.githubusercontent.com/72907039/110456557-b78de180-80ef-11eb-9920-c91da67c89bb.jpg)
+
+
+Create page Takes User Input Via Form.
+![SharedScreenshot2](https://user-images.githubusercontent.com/72907039/110456827-0471b800-80f0-11eb-9826-144d2f3c356e.jpg)
+
+
+And View Page takes the User data and desplay that in Table form as well as Perform Operation like Delete and have button that lead to Create user Form.
+![SharedScreenshot3](https://user-images.githubusercontent.com/72907039/110457276-79dd8880-80f0-11eb-99f6-3bb114856b1f.jpg)
+
+
+
+And the Error Page display Page not Found Error in case of Undefined Url.
+
+![SharedScreenshot4](https://user-images.githubusercontent.com/72907039/110457234-6d593000-80f0-11eb-9ec0-110c82382bc2.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
